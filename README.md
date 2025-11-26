@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg">
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4E16AQE_hZWL7snsfg/profile-displaybackgroundimage-shrink_350_1400/B4EZpoRqe8HMAc-/0/1762686054533?e=1766016000&v=beta&t=pZ0-yZaN7b3rXud_83jRaCZ_j7KOHddGNyOKSrPf2d0">
 <h1 align="center">Hi 👋, I'm Omid Ostovari</h1>
 <h3 align="center">Machine Learning & Neuroscience Researcher | MSc in Artificial Intelligence</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
