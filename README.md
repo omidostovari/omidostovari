@@ -1,12 +1,16 @@
 <img align="center" alt="Banner" src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg">
 <h1 align="center">Hi 👋, I'm Omid Ostovari</h1>
-<h3 align="center">MSc Candidate in Artificial Intelligence | Neuroscientific Data Analysis | Deep Learning Enthusiast | AI & Neurotechnology Researcher</h3>
+<h3 align="center">Machine Learning & Neuroscience Researcher | MSc in Artificial Intelligence</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
-- 🔭 I’m currently working on **Reinforcing neuron extraction and spike inference in calcium imaging using deep learning denoising**
 
-- 👯 I’m looking to collaborate on **designing computational tools for cross-modal neural data analysis, particularly focusing on optical and calcium imaging**
+- 🔭 I’m currently working on **deep self-supervised denoising models for 3D two-photon calcium imaging**, and evaluating their impact on neuron extraction and spike inference using Suite2p, CaImAn, and NWB.
 
-- 📫 How to reach me **omidostovary@gmail.com**
+- 🧠 I’m interested in combining **machine learning, neural data analysis, and computational modeling** to study biological and artificial intelligence.
+
+- 🤝 I’m open to collaborating on **AI for science**, especially **neural data analysis**, **optical imaging**, and **computational neuroimaging pipelines**.
+
+- 📫 How to reach me: **omidostovary@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
